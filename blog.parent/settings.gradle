@@ -1,0 +1,6 @@
+include 'blog.client'
+include 'blog.controller'
+include 'blog.stand'
+include 'blog.register'
+include 'blog.war'
+include 'blog.server'
